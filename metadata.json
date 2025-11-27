@@ -1,0 +1,5 @@
+{
+  "name": "Saramin Resume Refiner AI",
+  "description": "Upload a job posting screenshot and your current resume to get an AI-tailored resume optimized for the position.",
+  "requestFramePermissions": []
+}
